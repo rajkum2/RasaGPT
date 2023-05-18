@@ -15,3 +15,6 @@ app/rasa/models/*
 app/rasa/.rasa
 app/rasa/.config
 app/rasa/.keras
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
